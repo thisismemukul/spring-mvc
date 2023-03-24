@@ -18,8 +18,8 @@ INSERT INTO post(ID, DESCRIPTION, USER_ID)
 VALUES(20001,'I want  to learn  AWS', 10001);
 
 INSERT INTO post(ID, DESCRIPTION, USER_ID) 
-VALUES(20001,'I want  to learn  DevOps', 10002);
+VALUES(20002,'I want  to learn  DevOps', 10002);
 INSERT INTO post(ID, DESCRIPTION, USER_ID) 
-VALUES(20001,'I want to get AWS certificate', 10002);
+VALUES(20003,'I want to get AWS certificate', 10002);
 INSERT INTO post(ID, DESCRIPTION, USER_ID) 
-VALUES(20001,'I want  to learn  AWS', 10002);
+VALUES(20004,'I want  to learn  AWS', 10002);
